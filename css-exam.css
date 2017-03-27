@@ -7,4 +7,22 @@
     margin: 0 auto;
     font-style: italic;
   }
+.byline {
+  font-size: 13px;
+  color: lightgray;
+  text-transform: uppercase;
+  margin: 0 auto;
+}
+.headline {
+  font-size: 20px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+.paragraph {
+  margin: 0 auto;
+}
+a {
+  color: #BF5700;
+}
+
 
