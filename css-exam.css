@@ -1,2 +1,9 @@
 <style>
+  h1 {
+    padding-bottom: 0px;
+  }
+  h3 {
+    padding-top: 0px;
+    font-style: italic;
+  }
 </style>
