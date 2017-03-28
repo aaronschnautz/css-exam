@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 h1 {
   padding-bottom: 0px;
   margin: 0 auto;
@@ -16,6 +19,17 @@ body {
   margin: auto;
   background-color: white;
   padding: 20px;
+  overflow: auto;
+}
+.left-column {
+  float: left;
+  width: 70%;
+  padding: 10px;
+}
+.right-column {
+  float: right;
+  width: 30%;
+  padding: 10px;
 }
 .story {
   background: lightgray;
