@@ -1,22 +1,32 @@
-  h1 {
-    padding-bottom: 0px;
-    margin: 0 auto;
-  }
-  h3 {
-    padding-top: 0px;
-    margin: 0 auto;
-    font-style: italic;
-  }
-.byline {
-  font-size: 13px;
-  color: lightgray;
-  text-transform: uppercase;
+h1 {
+  padding-bottom: 0px;
   margin: 0 auto;
+}
+h3 {
+  padding-top: 0px;
+  margin: 0 auto;
+  font-style: italic;
+}
+.story {
+  background: lightgray;
+  padding: 0 20px 20px 20px;
+}
+#main {
+  font-size: 26px;
+}
+#first {
+  font-size: 15px;
 }
 .headline {
   font-size: 20px;
   margin: 0 auto;
   padding-top: 20px;
+}
+.byline {
+  font-size: 13px;
+  color: gray;
+  text-transform: uppercase;
+  margin: 0 auto;
 }
 .paragraph {
   margin: 0 auto;
@@ -24,5 +34,3 @@
 a {
   color: #BF5700;
 }
-
-
