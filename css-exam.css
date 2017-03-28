@@ -32,6 +32,12 @@ h3 {
 .paragraph {
   margin: 0 auto;
 }
+.list {
+  border-bottom: 2px solid black;
+  padding-top: 25px;
+  padding-bottom: 0;
+  font-style: normal;
+}
 a {
   color: #BF5700;
 }
