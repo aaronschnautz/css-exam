@@ -8,6 +8,15 @@ h3 {
   margin: 0 auto;
   font-style: italic;
 }
+body {
+  background-color: darkgray;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  background-color: white;
+  padding: 20px;
+}
 .story {
   background: lightgray;
   padding: 0 20px 20px 20px;
