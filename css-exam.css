@@ -21,6 +21,7 @@ body {
   padding: 20px;
   overflow: auto;
 }
+@media(min-width: 600px) {
 .left-column {
   float: left;
   width: 70%;
@@ -30,6 +31,7 @@ body {
   float: right;
   width: 30%;
   padding: 10px;
+}
 }
 .story {
   background: lightgray;
